@@ -9,7 +9,6 @@
   <img align="center" alt="Elielton-C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">  
   <img align="center" alt="Elielton-R" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
   <img align="center" alt="Elielton-Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img align="right" alt="Deyni-Picrew" height="200" width="200" src="https://i.pinimg.com/564x/4d/b7/89/4db78918ede21d3bd8ea9e6c20720ac1.jpg">
 </div>
   
   ##
@@ -17,7 +16,5 @@
   <a href = "mailto:elieltonjunior29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elielton-dos-santos-do-couto-635241192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ##
 
- 
 </div>
