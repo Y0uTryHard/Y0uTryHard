@@ -11,8 +11,6 @@
   <img align="center" alt="Elielton-Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
 </div>
   
-  ##
-  
   <a href = "mailto:elieltonjunior29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elielton-dos-santos-do-couto-635241192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
